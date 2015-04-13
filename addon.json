@@ -1,0 +1,6 @@
+{
+	"title": "FallDamageFixer",
+	"type": "weapon",
+	"tags": ["fun", "realism"],
+	"ignore": ["*.DSStore", "*.db", "*.png"]
+}
